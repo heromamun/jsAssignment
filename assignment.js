@@ -1,4 +1,4 @@
-// link
+// https://github.com/heromamun/jsAssignment
 
 // kilometerToMeter
 
